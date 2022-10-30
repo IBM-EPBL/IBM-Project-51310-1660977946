@@ -15,11 +15,13 @@
 ### ☞DEGREE : bachelor of engineering& technology
 ### ☞BATCH : computer science & engineering
 ### ☞SEMESTER : 7th semester
-
+# **TECH STACK**
+### ☞ CODING : C++,java,python
+### ☞ DATA BASE : IBM DB2
 # **👨‍🏫PROJECT DESCRIPTION**
-### *Child safety is definitely something you must prioritize when providing a safe and secure home for your baby or young children.
-### *The Mommy I’m Here Child Locator is perfect for curious children who like running around while you’re trying to get some shopping done at the store. These devices come in pairs and are worn on your child’s ankles or wrists.
-### *The Amber Alert GPS V3 is another innovation which helps parents keep track of their child’s whereabouts.
+### ☞Child safety is definitely something you must prioritize when providing a safe and secure home for your baby or young children.
+### ☞The Mommy I’m Here Child Locator is perfect for curious children who like running around while you’re trying to get some shopping done at the store. These devices come in pairs and are worn on your child’s ankles or wrists.
+### ☞Child can also initiate emergency notification to the parents incase of unsafe situation.
 # 👨‍💻**NETWORK ARCHITECTURE**
 ![git](https://user-images.githubusercontent.com/113492779/198800977-2901c341-86a4-4ee0-ab33-13d9397eda82.PNG)
 # 🔎👷‍♀️**TECHNICAL ARCHITECTURE**
