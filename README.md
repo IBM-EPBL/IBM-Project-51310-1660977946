@@ -9,7 +9,7 @@
 ### *TEAM MEMBER_2 : Prasath J
 ### *TEAM MEMBER_3 : Suriya S
 # *INDUSTRY MONTOR(S) NAME : Baradwaj IL
-
+***
 # **👨‍🏫PROJECT DESCRIPTION**
 ### *Child safety is definitely something you must prioritize when providing a safe and secure home for your baby or young children.
 ### *The Mommy I’m Here Child Locator is perfect for curious children who like running around while you’re trying to get some shopping done at the store. These devices come in pairs and are worn on your child’s ankles or wrists.
