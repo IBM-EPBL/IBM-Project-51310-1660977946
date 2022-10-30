@@ -1,15 +1,21 @@
 ![Project](https://user-images.githubusercontent.com/113492779/198783868-40c352f8-8c28-4b6f-b1c7-99a0b56d9f96.jpg)
 # **Based Safety Gadget for Child Safety Monitoring and Notification**
-### *COTAGORY : INTERNET OF THINGS
-### *TEAM ID : PNT2022TMID39837
+### ☞CATEGORY : INTERNET OF THINGS
+### ☞TEAM ID : PNT2022TMID39837
 # 👦 **TEAM MEMBERS**
-### *TEAM SIZE : 4
-### *TEAM LEADER : Sunil Kumar S
-### *TEAM MEMBER_1 : Yaakobu Stephin D
-### *TEAM MEMBER_2 : Prasath J
-### *TEAM MEMBER_3 : Suriya S
-# *INDUSTRY MONTOR(S) NAME : Baradwaj IL
-***
+### ☞TEAM SIZE : 4
+### ☞TEAM LEADER : Sunil Kumar S
+### ☞TEAM MEMBER_1 : Yaakobu Stephin D
+### ☞TEAM MEMBER_2 : Prasath J
+### ☞TEAM MEMBER_3 : Suriya S
+# **MENTOR(S)**
+### ☞INDUSTRY MONTOR(S) NAME : Baradwaj IL
+### ☞FACULTY MENTOR(S) NAME : D Mohan
+# **QUALIFICATION**
+### ☞DEGREE : bachelor of engineering& technology
+### ☞BATCH : computer science & engineering
+### ☞SEMESTER : 7th semester
+
 # **👨‍🏫PROJECT DESCRIPTION**
 ### *Child safety is definitely something you must prioritize when providing a safe and secure home for your baby or young children.
 ### *The Mommy I’m Here Child Locator is perfect for curious children who like running around while you’re trying to get some shopping done at the store. These devices come in pairs and are worn on your child’s ankles or wrists.
