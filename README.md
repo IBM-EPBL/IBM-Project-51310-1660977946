@@ -25,4 +25,5 @@
 # 👨‍💻**NETWORK ARCHITECTURE**
 ![git](https://user-images.githubusercontent.com/113492779/198800977-2901c341-86a4-4ee0-ab33-13d9397eda82.PNG)
 # 🔎👷‍♀️**TECHNICAL ARCHITECTURE**
-![190850546-9b1ba338-6a8a-4952-8afc-898e5faddd36](https://user-images.githubusercontent.com/113492779/198801617-e318111b-dfd6-41be-9e8d-14a6d0b0aad3.png)
+![child tracker (1)](https://user-images.githubusercontent.com/113492779/200154407-76358dc6-c024-4e0e-b366-c8ccb9d5a921.png)
+
